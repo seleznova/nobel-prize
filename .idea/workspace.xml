@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7883ab82-fb51-4679-b067-53a165c6f34a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prize.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/country.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/laureate.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="nobel-prize.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -21,18 +23,7 @@
     <favorites_list name="nobel-prize" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="prize.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/prize.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="912" column="33" selection-start-line="912" selection-start-column="33" selection-end-line="912" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,6 +41,8 @@
         <option value="$PROJECT_DIR$/prize.cvs" />
         <option value="$PROJECT_DIR$/prize.csv.py" />
         <option value="$PROJECT_DIR$/prize.csv" />
+        <option value="$PROJECT_DIR$/laureate.csv" />
+        <option value="$PROJECT_DIR$/country.csv" />
       </list>
     </option>
   </component>
@@ -264,9 +257,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="512" y="48" width="893" height="465" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -317,10 +310,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prize.csv">
+    <entry file="file://$PROJECT_DIR$/country.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="912" column="33" selection-start-line="912" selection-start-column="33" selection-end-line="912" selection-end-column="33" />
+          <caret line="156" column="8" selection-start-line="156" selection-start-column="8" selection-end-line="156" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laureate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="976" column="174" selection-start-line="976" selection-start-column="174" selection-end-line="976" selection-end-column="174" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prize.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="890" column="68" selection-start-line="890" selection-start-column="68" selection-end-line="890" selection-end-column="68" />
           <folding />
         </state>
       </provider>
